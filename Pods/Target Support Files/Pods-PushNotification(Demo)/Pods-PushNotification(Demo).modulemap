@@ -1,0 +1,6 @@
+framework module Pods_PushNotification_Demo_ {
+  umbrella header "Pods-PushNotification(Demo)-umbrella.h"
+
+  export *
+  module * { export * }
+}
